@@ -2,3 +2,5 @@ Copy all files to your home
 .vim/
 .vimrc
 
+Install ctags
+sudo apt-get install exuberant-ctags
