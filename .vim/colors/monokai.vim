@@ -20,7 +20,7 @@ if exists("syntax_on")
   " Main highlight groups
   hi Cursor       guibg=fg
   "hi CursorIM
-  hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=#353333 guifg=white
+  hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=#353333 
 
   "hi CursorColumn
   "hi CursorLine
